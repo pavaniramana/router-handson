@@ -1,0 +1,35 @@
+.home{
+    position: absolute;
+    left: 70px;
+    top: 36px;
+    color: red;
+    text-decoration: none;
+}
+.price{
+    position: absolute;
+    left: 403px;
+    top: 36px;
+    color: red;
+    text-decoration: none;
+
+}
+.about{
+    position: absolute;
+    left: 834px;
+    top: 36px;
+    color: red;
+    text-decoration: none;
+}
+.contact{
+    position: absolute;
+    left: 1163px;
+    top: 36px;
+    color: red;
+    text-decoration: none;
+}
+.result{
+    position: absolute;
+    left: 648px;
+    top: 219px;
+    color: blueviolet;
+}
